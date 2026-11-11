@@ -1,12 +1,12 @@
 grad-cam==1.5.7
-torch==2.11.0+cu130
+torch==2.11.0
 torchao==0.10.0
-torchaudio==2.11.0+cu130
+torchaudio==2.11.0
 torchcodec==0.11.0
 torchdata==0.11.0
 torchsummary==1.5.1
 torchtune==0.6.1
-torchvision==0.26.0+cu130
+torchvision==0.26.0
 ultralytics==8.4.202
 ultralytics-platform==0.1.102
 ultralytics-thop==2.2.5
