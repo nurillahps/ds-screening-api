@@ -12,5 +12,4 @@ ultralytics-platform==0.1.102
 ultralytics-thop==2.2.5
 fastapi
 uvicorn[standard]
-opencv-python-headless
 python-multipart
